@@ -2,6 +2,8 @@
 
 This is vim syntax and snippets for [Roadworker](https://bitbucket.org/winebarrel/roadworker).
 
+![](http://blog.glidenote.com/images/2014/07/roadworker0.png)
+
 ## Requirement
 
  * [Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim)
